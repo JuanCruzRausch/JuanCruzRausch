@@ -9,6 +9,7 @@ Full Stack Developer
 </div>  
 
 
+
 I'm a Full Stack Developer with an orientation to the Back-end. I am passionate about software development and everything that can be done with just a computer and knowledge. I've been learning how to code since 2019, i went trough programing lenguajes like .net, C++, C# and which i liked the most JavaScript ❤️ Here in my profile, you will find some personal information to get on contact, some personal projects and other practical challenges.
 
 * 🌍  I'm based in Paraná, Entre Rios, Argentina
