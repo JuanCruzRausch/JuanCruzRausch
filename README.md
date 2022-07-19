@@ -1,12 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-
 Hi 👋 My name is Juan Cruz
 ==========================
 
 Full Stack Developer
 --------------------
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
+
 
 I'm a Full Stack Developer with an orientation to the Back-end. I am passionate about software development and everything that can be done with just a computer and knowledge. I've been learning how to code since 2019, i went trough programing lenguajes like .net, C++, C# and which i liked the most JavaScript ❤️ Here in my profile, you will find some personal information to get on contact, some personal projects and other practical challenges.
 
