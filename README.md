@@ -3,7 +3,7 @@ Hi 👋 My name is Juan Cruz
 
 Full Stack Developer
 --------------------
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmbuccolini&label=Profile%20views&color=0e75b6&style=flat" alt="jmbuccolini" /> </p>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
