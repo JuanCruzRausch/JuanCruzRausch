@@ -44,3 +44,13 @@ I'm a Full Stack Developer with an orientation to the Back-end. I am passionate 
 <a href="http://www.github.com/JuanCruzRausch"><img src="https://github-readme-stats.vercel.app/api?username=JuanCruzRausch&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="JuanCruzRausch's GitHub stats" /></a>
 
 <a href="https://github.com/JuanCruzRausch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzRausch&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## 💻 Mis Proyectos 
+
+- [MEL7E](https://mercado-los-7-enanitos.vercel.app/)
+  ``` Proyecto Full Stack realizado como entrega final grupal para el bootcamp de Soy Henry ```
+ <a href="https://github.com/FedeCarballo/ProyectoGrupal">![MEL7E2](https://user-images.githubusercontent.com/77030730/179841915-87e61a53-7442-4bd0-8ed4-34e4caf2a9c1.jpg)</a>
+ 
+- [Countries App](https://countries-deploy-version-final-57ypw7fbt-fedecarballo.vercel.app)
+  ``` Proyecto Full Stack realizado para el bootcamp de Soy Henry utilizando REACT JS, SQL, EXPRESS & NODE JS ```
+ <a href="https://github.com/FedeCarballo/countries-deploy-version-2">![1](https://user-images.githubusercontent.com/77030730/173206227-081951d6-a043-4d7d-b35d-55bd72f97807.jpg)
