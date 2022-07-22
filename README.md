@@ -45,7 +45,7 @@ I'm a Full Stack Developer with an orientation to the Back-end. I am passionate 
 
 <a href="https://github.com/JuanCruzRausch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruzRausch&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 💻 Mis Proyectos 
+## 💻 My Projects 
 
 - [MEL7E](https://mercado-los-7-enanitos.vercel.app/)
   ``` Full Stack Project realized as a final project for Soy Henry ```
@@ -53,4 +53,6 @@ I'm a Full Stack Developer with an orientation to the Back-end. I am passionate 
  
 - [Countries App](https://countries-app-juan.herokuapp.com/)
   ``` Full Stack Project for the bootcamp SoyHenry using REACT JS, SQL, EXPRESS & NODE JS ```
- <a href="https://github.com/JuanCruzRausch/Proyecto-Individual">![1](https://user-images.githubusercontent.com/77030730/173206227-081951d6-a043-4d7d-b35d-55bd72f97807.jpg)
+  <a href="https://github.com/JuanCruzRausch/Proyecto-Individual">![image](https://user-images.githubusercontent.com/84107721/180557554-a4597db0-e96d-470c-bc85-7b09a45f347a.png)</a>
+ 
+
